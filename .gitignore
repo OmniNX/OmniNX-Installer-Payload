@@ -1,0 +1,22 @@
+# Build outputs
+build/
+output/
+release/
+
+# Release zip
+*.zip
+
+# DevkitPro / devkitARM
+*.a
+*.elf
+*.o
+*.bin
+
+# OS files
+.DS_Store
+Thumbs.db
+.claude
+
+# Version file is tracked, ignore local edits
+# VERSION
+
