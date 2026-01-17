@@ -16,6 +16,11 @@ Based on [HATS-Installer-Payload](https://github.com/sthetix/HATS-Installer-Payl
 - **Error Handling**: Detailed error reporting on screen
 - **Payload Chaining**: Automatically launch hekate after installation
 
+## Documentation
+
+For detailed information about the installation process, see:
+- **[INSTALLATION_PROCESS.md](INSTALLATION_PROCESS.md)** - Complete step-by-step breakdown of everything checked and done during installation/update
+
 ## Installation Modes
 
 ### Update Mode (OmniNX Detected)
